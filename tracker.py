@@ -54,6 +54,13 @@ def fetch_top_posts():
     return posts
 
 
+
+
+
+
+
+
+
 def initialize_csv():
     """
     Create CSV with headers.
